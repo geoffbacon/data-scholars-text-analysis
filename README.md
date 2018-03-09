@@ -1,5 +1,7 @@
 # Data Scholars Text Analysis
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geoffbacon/data-scholars-text-analysis/master)
+
 ## Overview
 
 This presentation is a quick exploration of computational text analysis (CTA). We'll begin by discussing very broadly what CTA can do. Then we'll take an interesting question where data is available, preprocess the data, run some statistical models and interpret our results with respect to the question.
