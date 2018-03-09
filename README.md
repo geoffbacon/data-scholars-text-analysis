@@ -53,4 +53,4 @@ If you spot a problem with these materials, please make an issue describing the 
 
 * Geoff Bacon
 
-![D-Lab logo](data/logo.jpg)
+![D-Lab logo](assets/logo.jpg)
