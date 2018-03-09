@@ -7,7 +7,7 @@ This presentation is a quick exploration of computational text analysis (CTA). W
 ## What you'll learn
 * What computational text analysis is
 * What kinds of questions it can answer
-* How to preprocess text data 
+* How to preprocess text data
 * How to perform text classification
 
 ## Prerequisites
